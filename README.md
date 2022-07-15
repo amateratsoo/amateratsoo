@@ -1,4 +1,4 @@
-<h2 align="left">Certified bad programmer getting more insane day by day ✨<br><br>👉 On my way to become a fullstack dev;<br>👉 Always trying to improve my coding skills;<br>👉 Success is a consequence of hardworking<br><br>I am looking forward to see what i  can become 🕊</h2>
+<h2 align="left">Certified bad programmer getting more insane day by day ✨<br><br>👉 On my way to become a fullstack dev;<br>👉 Always trying to improve my coding skills;<br>👉 Success is a consequence of hardworking.<br><br>I am looking forward to see what i  can become 🕊</h2>
 
 ###
 
