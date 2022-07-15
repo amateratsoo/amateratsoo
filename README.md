@@ -1,10 +1,14 @@
-<h2 align="left">Certified bad programmer getting more insane day by day ✨<br><br>👉 On my way to become a fullstack dev;<br>👉 Always trying to improve my coding skills;<br>👉 Success is a consequence of hardworking.<br><br>I am looking forward to see what i  can become 🕊</h2>
+<h2 align="left">Certified bad programmer getting more insane day by day ✨<br><br>👉 On my way to become a fullstack dev;<br>👉 Always trying to improve my coding skills;<br>👉 Success is a consequence of hardworking.<br><br>I am looking forward to see what i  can become 🕊<br />  ㅤ</h2>
+
+
 
 ###
 
+<br />
+
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&username=amateratsoo" height="150" alt="stats graph"  />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=in love with ✨&username=amateratsoo" height="150" alt="languages graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=in love with ✨&username=amateratsoo" height="146" alt="languages graph"  />
 </div>
 
 ###
