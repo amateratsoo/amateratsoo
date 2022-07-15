@@ -22,7 +22,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://codepen.io/amateratsoo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=6a5acd&logoColor=white&labelColor=6a5acd&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
