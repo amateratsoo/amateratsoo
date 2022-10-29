@@ -33,4 +33,4 @@ Currently working and mastering those tools:
 > We are what we repeatedly do. <br />
 > Excellence, then, is not an act, but a habit.
 > 
-> [\- Not Aristotles](https://medium.com/the-mission/my-favourite-quote-of-all-time-is-a-misattribution-66356f22843d)
+> [\- Not Aristotle](https://medium.com/the-mission/my-favourite-quote-of-all-time-is-a-misattribution-66356f22843d)
