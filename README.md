@@ -2,7 +2,7 @@
 
 Most known as Amaterasu (not really), I'm a web/mobile developer, my goal is to get better with each project.
 
-I'll use this account as a form of measure my progress and my maturing in programming. I'm looking forward to see what I can become 🕊.
+I'll use this account as a form of measure my progress and maturing in programming. I'm looking forward to see what I can become 🕊.
 
 <br />
 
@@ -18,7 +18,7 @@ I'll use this account as a form of measure my progress and my maturing in progra
 
 ## ✨ Tools
 
-Currently working and mastering those tools: 
+Currently working and mastering these tools: 
 
 - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" width="12" alt="html5 logo" />
 - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="12" width="12" alt="css3 logo" />
