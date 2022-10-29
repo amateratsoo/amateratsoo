@@ -1,41 +1,36 @@
-<h2 align="left">Certified bad programmer getting more insane day by day ✨<br><br>👉 On my way to become a fullstack dev;<br>👉 Always trying to improve my coding skills;<br>👉 Success is a consequence of hardworking.<br><br>I am looking forward to see what i  can become 🕊<br />  ㅤ</h2>
+# Hi, I'm Jossani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
+Most known as Amaterasu (not really), I'm a web/mobile developer, my goal is to get better with each project.
 
-
-###
+I'll use this account as a form of measure my progress and my maturing in programming. I'm looking forward to see what I can become 🕊.
 
 <br />
 
-<div align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&custom_title=my journey 🏃‍♂️&username=amateratsoo" height="150" alt="stats graph"  />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=in love with ✨&username=amateratsoo" height="150" alt="languages graph"  />
-</div>
+## ✨ Goals
 
-###
+- [ ] Sharpen my existing skills and learn new ones
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" width="50" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" width="50" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" width="50" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="50" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" width="50" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" width="50" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" width="50" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" width="50" alt="python logo"  />
-</div>
+- [ ] Use my knowledge as a way to help people and somewhat impact others
 
-###
+- [ ] Ultimately, become a fullstack developer
 
-<div align="right">
-  <a href="https://codepen.io/amateratsoo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=6a5acd&logoColor=white&labelColor=6a5acd&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
+<br />
 
-###
+## ✨ Tools
 
-<br clear="both">
+Currently working and mastering those tools: 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" width="12" alt="html5 logo" />
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="12" width="12" alt="css3 logo" />
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="12" width="12" alt="javascript logo" />
+- Node and npm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="12" width="12" alt="nodejs logo" />
+- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" width="12" alt="react logo" />
+- React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" width="12" alt="react logo" />
+- Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="12" width="12" alt="figma logo" />
 
-###
+<br />
+
+> We are what we repeatedly do. <br />
+> Excellence, then, is not an act, but a habit.
+> 
+> [\- Not Aristotles](https://medium.com/the-mission/my-favourite-quote-of-all-time-is-a-misattribution-66356f22843d)
