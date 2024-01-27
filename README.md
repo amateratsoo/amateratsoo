@@ -28,6 +28,8 @@ Currently working and mastering these tools:
 - React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" width="12" alt="react logo" />
 - React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" width="12" alt="react logo" />
 - Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="12" width="12" alt="figma logo" />
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="12" width="12" alt="python logo" />
+- C# <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="12" width="12" alt="c-sharp logo" />
 
 <br />
 
