@@ -1,8 +1,7 @@
-# Hi, I'm Jossani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Most known as Amaterasu (not really), I'm a web/mobile developer, my goal is to get better with each project.
-
-I'll use this account as a way to measure my progress and maturing in programming. I'm looking forward to see what I can become 🕊.
+- Two hands and a dream
+- Changing my neighborhood one line at a time
 
 <br />
 
