@@ -15,20 +15,19 @@
 
 <br />
 
-## ✨ Tools
+## ❤️ Tools
 
 Currently working and mastering these tools: 
 
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" width="12" alt="html5 logo" />
-- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="12" width="12" alt="css3 logo" />
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="12" width="12" alt="javascript logo" />
 - TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="12" width="12" alt="javascript logo" />
-- Node and npm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="12" width="12" alt="nodejs logo" />
-- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" width="12" alt="react logo" />
+- NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="12" width="12" alt="nodejs logo" />
+- Fastify <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastify/fastify-plain.svg" height="12" width="12" alt="fastify logo" />
 - React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" width="12" alt="react logo" />
+- NextJS <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-plain.svg" height="12" width="12" alt="next logo" />
+- Postgresql  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain.svg" height="12" width="12" alt="postgres logo" />
+- Prisma ORM  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/prisma/prisma-original.svg" height="12" width="12" alt="prisma logo" />
 - Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="12" width="12" alt="figma logo" />
 - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="12" width="12" alt="python logo" />
-- C# <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="12" width="12" alt="c-sharp logo" />
 
 <br />
 
